@@ -5,7 +5,7 @@ This is a mapping project of the COVID19 reports in the United States in 2018 an
 
 ## Map 1: Choropleth map
 ![map1.1](img/img1.png)
-[Map 1]([url](https://nyu16.github.io/COVID19_Map_Reports/map1.html)) is a choropleth map that shows different rates related to COVID19 in 2018. Users will find a legend on the bottom right of the map where they can choose which rate they wish to see - the rate of death and rate of cases per county. The rates were found through dividing the COVID19 values by the population of the respective county in 2018, and the data are 2018 ACS 5 year estimates from the [U.S. Census Bureau]([url](https://data.census.gov/table?g=0100000US$050000&d=ACS+5-Year+Estimates+Data+Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)). When the users hover the mouse over a specific county the specific values of cases/deaths and the rates will be shown on the top left legend of the map.
+[Map 1]([https://nyu16.github.io/COVID19_Map_Reports/map1.html]) is a choropleth map that shows different rates related to COVID19 in 2018. Users will find a legend on the bottom right of the map where they can choose which rate they wish to see - the rate of death and rate of cases per county. The rates were found through dividing the COVID19 values by the population of the respective county in 2018, and the data are 2018 ACS 5 year estimates from the [U.S. Census Bureau]([url](https://data.census.gov/table?g=0100000US$050000&d=ACS+5-Year+Estimates+Data+Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)). When the users hover the mouse over a specific county the specific values of cases/deaths and the rates will be shown on the top left legend of the map.
 
 ## Map 2: Symbology map
 ![map2.1](img/img3.png)
